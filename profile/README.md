@@ -1,14 +1,14 @@
-# fox-managers
+# fox-tools
 
-My projects that help me during development.
+[Edwin's](https://github.com/hyperupcall) tools for development.
 
-## Most Developed
+## More complete
 
 - [template](https://github.com/fox-managers/template)
 - [dot](https://github.com/fox-managers/dot)
 - [repo](https://github.com/fox-managers/repo)
 
-## Work In Progress
+## Less complete
 
 - [default](https://github.com/fox-managers/default)
 - [toolmgr](https://github.com/fox-managers/toolmgr)
