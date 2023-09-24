@@ -4,16 +4,17 @@
 
 ## More complete
 
-- [template](https://github.com/fox-managers/template)
-- [dot](https://github.com/fox-managers/dot)
-- [repo](https://github.com/fox-managers/repo)
+- [template](https://github.com/fox-tools/template)
+- [dotfile](https://github.com/fox-tools/dotfile)
+- [repo](https://github.com/fox-tools/repo)
+- [repos](https://github.com/fox-tools/repos)
+- [default](https://github.com/fox-tools/default)
 
 ## Less complete
 
-- [default](https://github.com/fox-managers/default)
-- [toolmgr](https://github.com/fox-managers/toolmgr)
-- [run](https://github.com/fox-managers/run)
-- [script](https://github.com/fox-managers/script)
-- [logs](https://github.com/fox-managers/logs)
-- [completemgr](https://github.com/fox-managers/completemgr)
-- [pkg](https://github.com/fox-managers/pkg)
+- [run](https://github.com/fox-tools/run)
+- [pkg](https://github.com/fox-tools/pkg)
+- [job](https://github.com/fox-tools/job)
+- [script](https://github.com/fox-tools/script)
+- [logs](https://github.com/fox-tools/logs)
+- [autocomplete](https://github.com/fox-tools/autocomplete)
